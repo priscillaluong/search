@@ -1,9 +1,7 @@
-# In this project, I will create a program to search for recipes based on an ingredient. 
-# The project uses the Food2Fork API. 
-# 
-# 1. Ask the user to enter an ingredient they want to search for 
-# 2. Create a function that makes a request to the Food2Fork API 
-# with the required ingredient as part of the search query. 
-# 3. Get the returned recipes from the API response 
-# 4. Display the recipes for each search result.
+# Basic data analysis on a spreadsheet. The project will use a csv file that
+# contains sales data.
+
+# 1. Read the data from the spreadsheet
+# 2. Collect all of the sales from each month into a single list
+# 3. Output the total sales across all months
 
